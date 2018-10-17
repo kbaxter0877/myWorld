@@ -4,11 +4,24 @@
             <state name="arkansas">
                 <city name="kdaveris">
                     <distict name="">
-                    </distict name="">
-                </city name="kdaveris">
-            </state name="arkansas">
-        </country name="usa">
-    </continent name="north america">
+                    </distict >
+                </city >
+            </state >
+        </country>
+    </continent >
+</baxtersWorld>
+
+<baxtersWorld>
+    <continent name="">
+        <country name="">
+            <state name="">
+                <city name="">
+                     <distict name="">
+                     </distict>
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -18,10 +31,10 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -31,10 +44,10 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -44,10 +57,10 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -57,10 +70,10 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -70,10 +83,10 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
 
 <baxtersWorld>
@@ -83,21 +96,8 @@
                 <city name="">
                      <distict name="">
                      </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
-</baxtersWorld>
-
-<baxtersWorld>
-    <continent name="">
-        <country name="">
-            <state name="">
-                <city name="">
-                     <distict name="">
-                     </distict name="">
-                </city name="">
-            </state name="">
-        </country name="">
-    </continent name="">
+                </city >
+            </state >
+        </country >
+    </continent >
 </baxtersWorld>
