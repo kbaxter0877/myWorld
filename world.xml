@@ -3,7 +3,10 @@
         <country name="usa">
             <state name="arkansas">
                 <city name="kdaveris">
-                    <distict name="">
+                    <distict name="1 farming">
+                        <distict name="2 science">
+                            <distict name="3 biusnes">
+                        </distict>
                     </distict >
                 </city >
             </state >
@@ -11,3 +14,44 @@
     </continent >
 </baxtersWorld>
 
+    <continent name="north america">
+        <country name="canada">
+            <state name="teines">
+                <city name="kertina">
+                    <distict name="1 tecnology">
+                        <distict name="2 science">
+                            <distict name="3 cows">
+                        </distict>
+                    </distict >
+                </city >
+            </state >
+        </country>
+    </continent >
+
+    <continent name="north america">
+        <country name="mexico">
+            <state name="tarince">
+                <city name="klentar">
+                    <distict name="1 food">
+                        <distict name="2 schools">
+                            <distict name="3 marketing">
+                        </distict>
+                    </distict >
+                </city >
+            </state >
+        </country>
+    </continent >
+
+    <continent name="north america">
+        <country name="curizeyin">
+            <state name="verice">
+                <city name="mervin">
+                    <distict name="1 company biulding">
+                        <distict name="2 space reserch">
+                            <distict name="3 trade center">
+                        </distict>
+                    </distict >
+                </city >
+            </state >
+        </country>
+    </continent >
